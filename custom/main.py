@@ -6,8 +6,6 @@ import bs4
 
 from request_sender import scrapp
 
-
-
 massive = ['https://premier.ua/zhilaia-nedvizhimost/prodazha-1-komn-kv-?page=',
            'https://premier.ua/zhilaia-nedvizhimost/kvartiry-v-novostroykakh-?page=',
            'https://premier.ua/zhilaia-nedvizhimost/prodazha-2-komn-kv-?page=',
